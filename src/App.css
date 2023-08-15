@@ -1,0 +1,17 @@
+
+.main{
+  width: 296px;
+}
+.title{
+  color: #1976d2;
+}
+.list-item {
+  display: flex;
+  justify-content: center;
+}
+.todolist{
+  margin-top: 20px;
+  width: 100%;
+}
+
+

@@ -1,0 +1,14 @@
+.item {
+    width: 296px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    margin-right: auto;
+}
+
+.checkbox {
+    margin-left: auto;
+}
